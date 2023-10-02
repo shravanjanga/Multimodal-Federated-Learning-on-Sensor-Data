@@ -15,7 +15,7 @@ privacy-preserving collaboration. This project aims to understand and extend mul
 
 **Hardware/Software Requirements:**
 -Python Environment.
--Laptop with CUDA-enabled GPU (optional).
+-Laptop with CUDA-enabled GPU.
 
 **Team Members:** Shravan Janga
 
