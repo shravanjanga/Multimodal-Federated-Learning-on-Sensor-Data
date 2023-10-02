@@ -1,6 +1,5 @@
 **Motivation:**
-Federated Learning (FL) ensures privacy while training machine learning models. Multimodal sensor data, combining various sensing modalities, demands FL for 
-privacy-preserving collaboration. This project aims to understand and extend multimodal FL.
+According to the papers, Federated Learning(FL) is a type of learning that allows for users to train on models without compromising the raw data itself. Multimodal sensor data is data this collected through various means such as images, audio, etc. in an Internet of things enviromet. This project is a way to implement multimodal learning through existing datasets.
   
 **Design Goals:**
 - Benchmarking: Replicate paper results using provided datasets.
