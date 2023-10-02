@@ -15,16 +15,22 @@ privacy-preserving collaboration. This project aims to understand and extend mul
 
 **Hardware/Software Requirements:**
 -Python Environment.
+
 -Laptop with CUDA-enabled GPU.
 
 **Team Members:** Shravan Janga
 
 **Timeline:**
 -Week 1(10/1/23 - 10/7/23): Understand FL, Set up Environment.
+
 -Week 2-3(10/8/23 - 10/22/23): Replicate Experiments.
+
 -Week 4(10/23/23 - 10/28/23): Per-Class Accuracy Analysis.
+
 -Week 5(10/29/23 - 11/4/23): Data Distribution Study.
+
 -Week 6(11/5/23 - 11/12/23): Evaluation on Balanced Datasets.
+
 -Week 7(11/13/23 - 11/20/23): Report Writing and Visualization.
 
 **References**
