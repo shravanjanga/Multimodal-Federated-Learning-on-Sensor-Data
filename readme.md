@@ -24,7 +24,7 @@ privacy-preserving collaboration. This project aims to understand and extend mul
 - Python Environment.
 - Laptop with CUDA-enabled GPU.
 
-**Team Members:** Shravan Janga
+**Team Members:** Shravan Janga - Will be leading all roles including setup, software, networking, writing, research, algorithm design
 
 **Timeline:**
 - Week 1(10/1/23 - 10/7/23): Understand FL, Set up Environment.
